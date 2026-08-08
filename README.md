@@ -1,8 +1,4 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Learn Git Fundamentals
-
-**Project Link:** [View Project](https://nextwork.ai/projects/8bf3bcb5-a70d-418a-9c76-251365f69028)
 
 **Author:** Mayur Suresh Nair  
 **Email:** mayursureshnair@gmail.com
@@ -107,7 +103,3 @@ This project took me approximately 1 hour including documentation. The most chal
 ### Looking ahead
 
 I did this project today to learn git commands. To create Git repo and to check the status and branch I'm on Another skill I want to learn is to use Git with the help of AI to make things more efficient.
-
----
-
-*Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/8bf3bcb5-a70d-418a-9c76-251365f69028)*
