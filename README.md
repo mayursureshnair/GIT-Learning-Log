@@ -19,7 +19,7 @@ In this project, I'm building a Github repository, so that I can learn Git essen
 
 ## Setting Up the Development Environment
 
-### Installing Git and Cursor
+### Installing Git and Antigravity
 
 In this step, I'm setting up github account and install git so that I can use a code editor and open its integration terminal and publish in github repo.
 
