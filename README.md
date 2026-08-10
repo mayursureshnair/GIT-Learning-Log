@@ -11,13 +11,13 @@
 
 ### Goals and objectives
 
-In this project, I'm building a Github repository, so that I can learn Git essentials.
+In this project, I'm building a Github repository, so that I can learn Git Essentials.
 
 ## Setting Up the Development Environment
 
 ### Installing Git and Antigravity
 
-In this step, I'm setting up github account and install git so that I can use a code editor and open its integration terminal and publish in github repo.
+In this step, I'm setting up Github account and install Git so that I can use a code editor and open its integration terminal and publish in Github repository.
 
 
 ![Image](https://nextwork.ai/passionate_cyan_elegant_tuke/uploads/8bf3bcb5-a70d-418a-9c76-251365f69028_ryyzlsf8)
@@ -26,19 +26,19 @@ In this step, I'm setting up github account and install git so that I can use a 
 
 ### Setting up Git identity and project file
 
-In this step, I'm setting up git identity so that I can create a project and open in code editor.
+In this step, I'm setting up Git identity so that I can create a project and open in code editor.
 
 ![Image](https://nextwork.ai/passionate_cyan_elegant_tuke/uploads/8bf3bcb5-a70d-418a-9c76-251365f69028_d6lm2bxt)
 
 ### Understanding global Git configuration
 
-The --global flag means my user name and email will be used globally across all repos. I used a specific email because that is the email connected to my github account.
+The --global flag means my user name and email will be used globally across all repos. I used a specific email because that is the email connected to my Github account.
 
 ## Initializing a Repository and Making Commits
 
 ### Creating the first commits
 
-In this step, I'm setting up a git repository so that I can make changes and commit them using git tools.
+In this step, I'm setting up a Git repository so that I can make changes and commit them using git tools.
 
 ![Image](https://nextwork.ai/passionate_cyan_elegant_tuke/uploads/8bf3bcb5-a70d-418a-9c76-251365f69028_blkivqea)
 
@@ -62,7 +62,7 @@ A merge conflict happens because the same file has been changed in 2 different b
 
 ### Merging feature branches into main
 
-In this step, I'm merging two branches with conflicting changes so that I can read and understand git's conflict markers. Then resolve and complete the merge commit.
+In this step, I'm merging two branches with conflicting changes so that I can read and understand Git's conflict markers. Then resolve and complete the merge commit.
 
 ![Image](https://nextwork.ai/passionate_cyan_elegant_tuke/uploads/8bf3bcb5-a70d-418a-9c76-251365f69028_0e34g9cu)
 
@@ -94,7 +94,7 @@ In this project extension, I used the commands add, commit and push to push my R
 
 ### Tools and concepts mastered
 
-The key tools I used include git commands on Antigravity Key concepts I learnt include creating git repos, creating branches and handeling merge conflicts.
+The key tools I used include git commands on Antigravity, Key concepts I learnt include creating git repos, creating branches and handeling merge conflicts.
 
 ### Time and challenges
 
