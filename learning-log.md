@@ -1,3 +1,4 @@
+#!/bin/bash
 # My Learning Log
 
 ## About This Project
@@ -13,3 +14,6 @@ I'm learning Git and version control to track my work.
 - Every commit is a snapshot you can go back to
 - Branches let you experiment without affecting the main project
 - You can merge branches back together when ready
+
+---- Practicing Git on 20/10/2026 ----
+echo "Hey there...!"
