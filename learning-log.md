@@ -18,3 +18,4 @@ I'm learning Git and version control to track my work.
 ---- Practicing Git on 20/10/2026 ----
 echo "Hey there...!"
 echo "I made a branch called Trial"
+echo "Making changes in new branch"
